@@ -1,4 +1,4 @@
-by Ken Schiller
+All code by Ken Schiller.
 
 Builds trigram language model for each section of Carleton College's Noon News Bulletin (NNB) and generates “likely sentences” based on the model.
 
