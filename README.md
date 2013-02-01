@@ -3,9 +3,9 @@ by Ken Schiller
 Builds trigram language model for each section of Carleton College's Noon News Bulletin (NNB) and generates “likely sentences” based on the model.
 
 Basic instructions for doing something with this:
-  -Run markov_bulletin.py while cd'ed into the directory containing it.
-  -Wait 30 seconds
-  -See what you got in generated/
+  - Run markov_bulletin.py while cd'ed into the directory containing it.
+  - Wait 30 seconds
+  - See what you got in generated/
 
 File descriptions:
   -get_nnb_data.py — Gets nnb page (html) for each day in the 2011-2012 school year, extracts each category and puts it in the right folder in download/, still in html format.
